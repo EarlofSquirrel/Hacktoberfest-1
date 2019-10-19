@@ -1,8 +1,11 @@
 {
     "word": "Brawl",
-    "definitions": [
+    "definitions for noun": [
         "A noisy quarrel or fight",
         "A loud tumultuous noise"
     ],
     "parts-of-speech": "Noun"
-}
+    "definitions for verb": [
+        "To quarrel or fight noisily"
+    ]
+    "parts-of-speech": "Verb"
